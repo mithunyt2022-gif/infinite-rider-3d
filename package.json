@@ -1,0 +1,16 @@
+{
+  "name": "infinite-rider-3d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:www": "mkdir -p www && cp index.html www/index.html && cp node_modules/three/build/three.min.js www/three.min.js"
+  },
+  "dependencies": {
+    "three": "0.128.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/android": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.0"
+  }
+}

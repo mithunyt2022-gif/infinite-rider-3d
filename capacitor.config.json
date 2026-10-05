@@ -1,0 +1,8 @@
+{
+  "appId": "com.mithun.infiniterider",
+  "appName": "Infinite Rider 3D",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#000000"
+  }
+}
